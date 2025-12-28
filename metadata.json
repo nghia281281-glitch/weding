@@ -1,0 +1,7 @@
+{
+  "name": "Elegant Wedding Invitation",
+  "description": "A sophisticated, interactive wedding invitation with AI-powered personalized poem generation and RSVP functionality.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
